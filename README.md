@@ -304,4 +304,5 @@ YMODEVİ/
 
 **Projeyi Yapan**:Hakan Tarık Karaduman  
 **Tarihi**: Haziran 2026  
+**NOT**:Bu readme yapay zeka tarafından hazırlanmıştır.
 
